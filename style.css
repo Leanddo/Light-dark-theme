@@ -52,15 +52,3 @@ input {
   top: 5px;
   left: 5px;
 }
-
-#switcher:checked{
-
-  #circle{
-    transform: translateX(25px);
-  }
-  body{
-    background-color: #000;
-  }
-  
-}
-
