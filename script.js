@@ -11,4 +11,3 @@ function check() {
 
   switchinp = !switchinp;
 }
-check();
